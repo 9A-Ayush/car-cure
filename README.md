@@ -9,7 +9,7 @@ A responsive frontend for booking car repairs and managing services, built using
 
 | 🏠 Home | 🔐 Login | 📅 Booking | 🛒 Cart | ⭐ Rate |
 |--------|----------|------------|--------|--------|
-| ![Home](./screenshots/home.png) | ![Login](./screenshots/login.png) | ![Booking](./screenshots/booking.png) | ![Cart](./screenshots/cart.png) | ![Rate](./screenshots/rate.png) |
+| ![Home](./screenshot/home.png) | ![Login](./screenshot/login.png) | ![Booking](./screenshot/booking.png) | ![Cart](./screenshot/cart.png) | ![Rate](./screenshot/rate.png) |
 
 > 💡 All pages are mobile responsive and styled with modern components using MUI and custom SCSS.
 
